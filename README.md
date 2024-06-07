@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lu1711
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning everything related :)
+- 🌱 I’m currently learning related staff :)
 - 💞️ I’m looking to collaborate on new projects to learn
 - 📫 How to reach me - llmsoares@gmail.com.
 
