@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lu1711
-- 👀 I’m into web development
+- 👀 I’m into tech
 - 🌱 I’m currently learning related staff :)
 - 💞️ I’m looking to be better, whatever I do
 - 📫 How to reach me - llmsoares@gmail.com.
